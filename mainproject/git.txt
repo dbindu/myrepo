@@ -6,7 +6,7 @@ cd `~ec2-user@ec2-3-18-101-89.us-east-2.compute.amazonaws.com
 
 git
 
-https://github.com/dbindu/mainproject
+https://github.com/dbindu/mainproject.git
 https://github.com/dbindu/testing.git
 bindu@DESKTOP-FNFFUCD
 
