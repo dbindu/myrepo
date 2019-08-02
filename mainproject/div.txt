@@ -1,4 +1,0 @@
-it is for division
-
-if a=x b=y
-c=x/y
