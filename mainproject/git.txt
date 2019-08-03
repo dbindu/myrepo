@@ -1,9 +1,22 @@
-/* HelloWorld.java
- */
-
-public class HelloWorld
-{
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
-}
+WebAppX/
+       /META-INF/MANIFEST.MF
+       /WEB-INF/web.xml
+       |       /classes/
+       |       |       /ServletA.class
+       |       |       /ServletB.class
+       |       |       /ServletC.class
+       |       |       /aa/bb/cc/ServletD.class
+       |       |       /com/megacorp/ProjX/
+       |       |       |                  /Abc.class
+       |       |       |                  /Ijk.class
+       |       /tags/
+       /lib/
+       |   /filea.jar
+       |   /fileb.jar
+       |   /filec.jar
+       /index.html
+       /my.css
+       /images/my.png
+       /xxx.jsp
+       /yyy.jsp
+       /zzz.jsp
